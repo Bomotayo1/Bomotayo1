@@ -1,5 +1,17 @@
-## Hi there 👋
+# Hi, I'm Omotayo Babatunde
 
+Pharmacology Graduate | Data Analyst | I'm a data analyst building hands-on, end-to-end projects from messy raw datasets to cleaned data,
+analysis, and decision-ready dashboards. I enjoy finding the story behind the numbers and explaining it in plain language.
+
+## Professional Skills
+   - **Data Analysis & Visualisation**: Excel (powerQuery, PivotTables, advanced formulas (XLOOKUP, SUMIFS, NestedIFS, Interactive excel dashboards),
+     PowerBI (DAX, Data Modelling, Interactive reports)
+   - **Database Management & SQL**: Writing queries, joining tables, aggregations, subqueries
+   - **Business Insight & Reporting**:  Translating raw data into fndings and actionable recommendations
+
+Goal: To apply data analysis in business and research for impactful results.
+
+let's connect: [Linkedin]()   Email: [Email]()
 <!--
 **Bomotayo1/Bomotayo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
