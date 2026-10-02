@@ -9,7 +9,7 @@ analysis, and decision-ready dashboards. I enjoy finding the story behind the nu
    - **Database Management & SQL**: Writing queries, joining tables, aggregations, subqueries
    - **Business Insight & Reporting**:  Translating raw data into fndings and actionable recommendations
 
-**Goal**: To apply data analysis in business and research for impactful results.
+**Goal:** To apply data analysis in business and research for impactful results.
 
 let's connect: [Linkedin]()   Email: [Email]()
 <!--
