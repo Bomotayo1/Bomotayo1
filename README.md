@@ -12,6 +12,8 @@ analysis, and decision-ready dashboards. I enjoy finding the story behind the nu
 **Goal:** To apply data analysis in business and research for impactful results.
 
 let's connect: [Linkedin]()   Email: [Email]()
+
+"Data tells a story - I'm here to find it and explain it clearly".
 <!--
 **Bomotayo1/Bomotayo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
