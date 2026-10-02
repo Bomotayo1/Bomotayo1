@@ -11,7 +11,7 @@ analysis, and decision-ready dashboards. I enjoy finding the story behind the nu
 
 **Goal:** To apply data analysis in business and research for impactful results.
 
-let's connect: [Linkedin]()   Email: [Email](mailto:bomotayo99@gmail.com)
+let's connect: [Linkedin]()   Email: [bomotayo99@gmail.com](mailto:bomotayo99@gmail.com)
 
 "Data tells a story - I'm here to find it and explain it clearly".
 <!--
