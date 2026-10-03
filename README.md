@@ -17,7 +17,6 @@ let's connect: [Linkedin](www.linkedin.com/in/omotayo-babatunde)   Email: [bomot
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Bomotayo1&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bomotayo1&layout=compact&theme=tokyonight)
 <!--
 **Bomotayo1/Bomotayo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
