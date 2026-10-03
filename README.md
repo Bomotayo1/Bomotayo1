@@ -11,15 +11,12 @@ analysis, and decision-ready dashboards. I enjoy finding the story behind the nu
 
 **Goal:** To apply data analysis in business and research for impactful results.
 
-let's connect: [Linkedin](www.linkedin.com/in/omotayo-babatunde)   Email: [bomotayo99@gmail.com](mailto:bomotayo99@gmail.com)
+let's connect: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/omotayo-babatunde)   [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bomotayo99@gmail.com)
 
 "Data tells a story - I'm here to find it and explain it clearly".
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Bomotayo1&show_icons=true&theme=tokyonight)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/omotayo-babatunde)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omotayo-babatunde)
 
 <!--
 **Bomotayo1/Bomotayo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
