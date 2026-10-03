@@ -14,6 +14,8 @@ analysis, and decision-ready dashboards. I enjoy finding the story behind the nu
 let's connect: [Linkedin](www.linkedin.com/in/omotayo-babatunde)   Email: [bomotayo99@gmail.com](mailto:bomotayo99@gmail.com)
 
 "Data tells a story - I'm here to find it and explain it clearly".
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Bomotayo1&show_icons=true&theme=tokyonight)
 <!--
 **Bomotayo1/Bomotayo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
