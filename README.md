@@ -11,7 +11,7 @@ analysis, and decision-ready dashboards. I enjoy finding the story behind the nu
 
 **Goal:** To apply data analysis in business and research for impactful results.
 
-let's connect: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/omotayo-babatunde)   [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bomotayo99@gmail.com)
+let's connect: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=blue)](https://linkedin.com/in/omotayo-babatunde)   [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:bomotayo99@gmail.com)
 
 "Data tells a story - I'm here to find it and explain it clearly".
 
